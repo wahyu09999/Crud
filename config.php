@@ -1,7 +1,7 @@
 <?php
 
 $servername = "localhost";
-$database = "gervichstore";
+$database = "store";
 $username = "root";
 $password = "";
 
